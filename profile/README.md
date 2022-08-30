@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://three.top">
-        <img height="360" src="./logo.svg">
+        <img height="360" src="/profile/logo.svg">
     </a>
 </p>
 
@@ -11,7 +11,7 @@
 <h3 align="center">Contact Us:</h3>
 <p align="center">
     <a href="https://three.top">
-        <img height="20" src="./email.svg">
+        <img height="20" src="/profile/email.svg">
     </a>
 </p>
 
